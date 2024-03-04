@@ -4,6 +4,7 @@ import { Context } from '../../context/Context';
 
   const Productos = () => {
     const { test } = useContext(Context);
+    
     return (
         <>Productos</>
     )
